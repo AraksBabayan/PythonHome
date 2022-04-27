@@ -17,3 +17,4 @@
 # res = sum(mydict.values()) / len(mydict)
 # print(f'the arithmetic average:' + str(res))
 
+print(7)
